@@ -1,0 +1,7 @@
+[
+{"pergunta":["ola"],"resposta":"Tudo bem?","relevancia":10},
+{"pergunta":["nome"],"resposta":"Sou um Bot","relevancia":20},
+{"pergunta":["time"],"resposta":"Gosto do Tubarão!","relevancia":20},
+{"pergunta":["comida"],"resposta":"Não como sou um bot!","relevancia":20},
+{"pergunta":["namorada","namorado"],"resposta":"Sou um bot não entendo bem isso.","relevancia":20}
+]
